@@ -4,15 +4,16 @@ Client software for hopper scales CompuWeigh company. Windows form app, use modb
 # Main screen
 Custom information of scale and config for new order
 
-![Main](main.png)
+![Main](https://github.com/stepan-ko/ClientCompuWeigh/blob/main/img/main.PNG)
 
 # Logs screen
 Logs information use NLog lib. Logs write on files and on form.
 
-![Logs](log.png)
+![Logs](https://github.com/stepan-ko/ClientCompuWeigh/blob/main/img/log.PNG)
 
 # Setting screen
 Setting parameter for application. Use .config and JSON file for language localization
 
-![Setting](setting.png)
-![Setting_ru](setting_ru.png)
+![Setting](https://github.com/stepan-ko/ClientCompuWeigh/blob/main/img/setting.PNG)
+![Setting](https://github.com/stepan-ko/ClientCompuWeigh/blob/main/img/setting_ru.PNG)
+
