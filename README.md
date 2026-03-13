@@ -4,7 +4,7 @@ Client software for hopper scales CompuWeigh company. Windows form app, use modb
 # Main screen
 Custom information of scale and config for new order
 
-![Main](/img/main.png)
+![Main](main.png)
 
 # Logs screen
 Logs information use NLog lib. Logs write on files and on form.
